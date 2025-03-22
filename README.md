@@ -45,4 +45,7 @@
   <a href="mailto:danilovinicius1790@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://discord.gg/nwKd598qwX">
+    <img src="https://skillicons.dev/icons?i=discord">
+  </a>
 </p>
