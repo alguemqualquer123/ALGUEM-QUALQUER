@@ -17,7 +17,7 @@
 ### **🚀 Technologies & Tools**
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,react,nodejs,prisma,supabase,mysql,postgres,docker,aws" />
+        <img src="https://skillicons.dev/icons?i=java,c#,ts,react,nodejs,prisma,supabase,mysql,postgres,docker,aws" />
     </a>
 </p>
 
